@@ -1,15 +1,11 @@
 # Weather Analysis to Help construction and Mining Industries
 ## Contents
--(project-name)
   - [Contents](#contents)
   - [Short description](#short-description)
     - [What's the problem?](#whats-the-problem)
     - [How can technology help?](#how-can-technology-help)
     - [The idea](#the-idea)
-  - [Demo video](#demo-video)
-  - [The architecture](#the-architecture)
-  - [Long description](#long-description)
-  - [Project roadmap](#project-roadmap)
+
 ## Short description
 ### What's the problem?
 
