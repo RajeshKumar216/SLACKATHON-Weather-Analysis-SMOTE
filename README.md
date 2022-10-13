@@ -9,8 +9,7 @@
 ## Short description
 ### What's the problem?
 
-In Construction and Mining industries,lack of weather forecasting industries used to loss investment on Manpower, Raw materials and sometimes lives due unexpected 
-events during heavy rainfalls. 
+Lack of weather foresting Construction and Mining industries used face lot of problems and loss investment on Manpower, Raw materials and sometimes lives due to unexpected events during heavy rainfalls.
 
 ### How can technology help?
 Technology can help in analysis the feature weather conditions to plan the mining and constructions works accordingly.
